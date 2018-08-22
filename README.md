@@ -14,7 +14,7 @@ OTUStalker requires [Java](https://java.com/en/download/) to be installed (code 
 
 ## If you use this tool, please cite as:
 
-*Lachlan B.M. Speirs, Zoe A. Dyson, Joseph Tucci and Robert J. Seviour (2017).  Eikelboom filamentous morphotypes 0675 and 0041 embrace members of the Chloroflexi: resolving their phylogeny, and design of FISH probes for their in situ identification. Manuscript under review.*
+*Lachlan B.M. Speirs, Zoe A. Dyson, Joseph Tucci and Robert J. Seviour (2017).  Eikelboom filamentous morphotypes 0675 and 0041 embrace members of the Chloroflexi: resolving their phylogeny, and design of FISH probes for their in situ identification. FEMS Microbiology Ecology 93 (10).*
 
 ## Interface: 
 ![alt text](https://github.com/zadyson/OTUStalker/blob/master/OTUStalker.png "OTUStalker GUI")
