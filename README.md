@@ -2,7 +2,7 @@
 
 #### Authors: Zoe A. Dyson (zadyson[at]gmail[dot]com) & Lachlan B. M. Speirs
 
-## Please note that OTUStalker is now retired, and no longer updated as it has been superseded by other tools.
+## Please note that OTUStalker is now retired and no longer updated as it has been superseded by other tools.
 
 ## Description:
 
