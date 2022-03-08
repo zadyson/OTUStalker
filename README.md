@@ -2,6 +2,8 @@
 
 #### Authors: Zoe A. Dyson (zadyson[at]gmail[dot]com) & Lachlan B. M. Speirs
 
+## Please note that OTUStalker is now retired, and no longer updated as it has been superseded by other tools.
+
 ## Description:
 
 OTUStalker is a small software tool designed to be compatible with QIIME (v1.8.0). Its purpose is to retrieve data pertinent to a single taxonomic group, from a larger (presumably mixed) data set, therefore allowing the user to concentrate their efforts on the specific taxa of interest. In effect, OTUStalker is taking the place of a targeted PCR primer set.
